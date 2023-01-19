@@ -1,0 +1,1 @@
+window.term = new termController();
